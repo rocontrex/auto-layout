@@ -13,6 +13,7 @@
 		AAFA51A724BF9DCE0044E55A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AAFA51A524BF9DCE0044E55A /* Main.storyboard */; };
 		AAFA51A924BF9DD40044E55A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AAFA51A824BF9DD40044E55A /* Assets.xcassets */; };
 		AAFA51AC24BF9DD40044E55A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AAFA51AA24BF9DD40044E55A /* LaunchScreen.storyboard */; };
+		AAFA51B424C1F41C0044E55A /* UIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = AAFA51B324C1F41C0044E55A /* UIView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		AAFA51A824BF9DD40044E55A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AAFA51AB24BF9DD40044E55A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AAFA51AD24BF9DD40044E55A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AAFA51B324C1F41C0044E55A /* UIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UIView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				AAFA519F24BF9DCE0044E55A /* AppDelegate.swift */,
 				AAFA51A124BF9DCE0044E55A /* SceneDelegate.swift */,
 				AAFA51A324BF9DCE0044E55A /* ViewController.swift */,
+				AAFA51B324C1F41C0044E55A /* UIView.swift */,
 				AAFA51A524BF9DCE0044E55A /* Main.storyboard */,
 				AAFA51A824BF9DD40044E55A /* Assets.xcassets */,
 				AAFA51AA24BF9DD40044E55A /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AAFA51B424C1F41C0044E55A /* UIView.swift in Sources */,
 				AAFA51A424BF9DCE0044E55A /* ViewController.swift in Sources */,
 				AAFA51A024BF9DCE0044E55A /* AppDelegate.swift in Sources */,
 				AAFA51A224BF9DCE0044E55A /* SceneDelegate.swift in Sources */,
